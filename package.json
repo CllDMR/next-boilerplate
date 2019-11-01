@@ -1,0 +1,40 @@
+{
+  "name": "next-boilerplate",
+  "version": "0.1.0",
+  "private": true,
+  "author": "Celal Demir",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CllDMR/next-boilerplate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CllDMR/next-boilerplate/issues"
+  },
+  "homepage": "https://github.com/CllDMR/next-boilerplate#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.25",
+    "@fortawesome/free-solid-svg-icons": "^5.11.2",
+    "@fortawesome/react-fontawesome": "^0.1.6",
+    "@material-ui/core": "^4.4.3",
+    "@material-ui/styles": "^4.4.3",
+    "clsx": "^1.0.4",
+    "dotenv": "^8.2.0",
+    "isomorphic-fetch": "^2.2.1",
+    "lodash": "^4.17.15",
+    "next": "9.0.6",
+    "next-redux-wrapper": "^3.0.0",
+    "nookies": "^2.0.8",
+    "prop-types": "^15.7.2",
+    "react": "16.9.0",
+    "react-dom": "16.9.0",
+    "react-redux": "^7.1.1",
+    "redux": "^4.0.4",
+    "redux-devtools-extension": "^2.13.8",
+    "redux-saga": "^1.1.1"
+  }
+}

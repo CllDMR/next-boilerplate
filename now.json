@@ -1,0 +1,8 @@
+{
+  "build": {
+    "env": {
+      "backend_local_url": "@backend_local_url",
+      "backend_prod_url": "@backend_prod_url"
+    }
+  }
+}
